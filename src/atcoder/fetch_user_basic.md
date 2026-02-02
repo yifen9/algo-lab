@@ -1,5 +1,5 @@
 | [AntoLee](https://atcoder.jp/users/AntoLee) | Count | Rank |
 |-----------|-------|------|
-| [Accepted Count](https://kenkoooo.com/atcoder/atcoder-api/v3/user/ac_rank?user=AntoLee) | 13 | 223843 |
-| [Rated Point Sum](https://kenkoooo.com/atcoder/atcoder-api/v3/user/rated_point_sum_rank?user=AntoLee) | 2450 | 199192 |
-| [Longest Streak (JST) Count](https://kenkoooo.com/atcoder/atcoder-api/v3/user/streak_rank?user=AntoLee) | 3 | 84029 |
+| [Accepted Count](https://kenkoooo.com/atcoder/atcoder-api/v3/user/ac_rank?user=AntoLee) | 13 | 223936 |
+| [Rated Point Sum](https://kenkoooo.com/atcoder/atcoder-api/v3/user/rated_point_sum_rank?user=AntoLee) | 2450 | 199273 |
+| [Longest Streak (JST) Count](https://kenkoooo.com/atcoder/atcoder-api/v3/user/streak_rank?user=AntoLee) | 3 | 84058 |
